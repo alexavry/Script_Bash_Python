@@ -7,7 +7,9 @@ def afficher_menu():
     print("3. Voir le moniteur btop")
     print("4. Avoir le nombre de caractères d'un fichier")
     print("5. Se connecter en ssh a un hote")
-    print("6. Quitter")
+    print("6. Avoir la date et l'heure a un instant T")
+    print("7. Ping une IP ou un site web")
+    print("8. Quitter")
 
 def lancer_le_script(choice):
     scripts = {
@@ -15,7 +17,9 @@ def lancer_le_script(choice):
         "2": "./script2.sh",
         "3": "./script3.sh",
         "4": "./script4.sh",
-        "5": "./script5.sh"
+        "5": "./script5.sh",
+        "6": "./script6.sh",
+        "7": "./script7.sh"
     }
 
     if choice in scripts:

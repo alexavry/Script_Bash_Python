@@ -9,6 +9,10 @@ Pour démmarrer le mode menu, j'ai fait un fichier script.py qui permet d'affich
 ##### 6 - Voir l'heure et la date a l'intant T
 ##### 7 - Faire un Ping sur un site Web
 ##### 8 - Quitter 
+
+![Image du menu.](menu.png)
+
+
  ### Résultat de l'option 1 : 
 
  ### Résultat de l'option 2 : 
