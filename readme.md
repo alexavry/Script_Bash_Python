@@ -14,15 +14,16 @@ Pour démmarrer le mode menu, j'ai fait un fichier script.py qui permet d'affich
 
 
  ### Résultat de l'option 1 : 
-
+![Image 1.](1.png)
  ### Résultat de l'option 2 : 
-
+![Image 2.](2.png)
  ### Résultat de l'option 3 : 
-
+![Image 3.](3.png)
  ### Résultat de l'option 4 : 
-
+![Image 4.](4.png)
  ### Résultat de l'option 5 : 
-
+![Image 5.](5.png)
  ### Résultat de l'option 6 : 
-
+![Image 6.](6.png)
  ### Résultat de l'option 7 : 
+![Image 7.](7.png)
